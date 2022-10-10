@@ -93,7 +93,7 @@
                 Ele também me apresentou um monte coisa legal mas, ele sempre diz que<br>
                 decepcionei ele quando eu falo "<span class="travel">Zasshu</span>" e que o Gilgamesh é o melhor personagem<br>
                 Ele toda vez que ele pode ele diz que eu não tenho Mona<br>
-                Mas tirando isso ele é legal :)
+                Mas tirando isso ele é legal :))
                 </p>
             </div>
         </header>
