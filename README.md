@@ -1,5 +1,3 @@
-# TravellerGift
-Presente pro traveller
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,109 +7,96 @@ Presente pro traveller
     <title>Document</title>
     <style>
         body{
-            background-color: rgb(110, 110, 110);
-        }
-        header{
-            background-color: black;
-            width: 100%;
-            height: 10%;
-            border-radius: 10px;
+        display: flex;
+        justify-content: center;
+        background-image: url(https://cdn.discordapp.com/attachments/853955187924271114/1001669657805201448/thumb-1920-1109233.jpg);
+        background-size: 100%;
         }
         h1{
-            color: white;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: 500;
+            font-size: 40px;
             text-align: center;
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            text-shadow: 0 0 10px rgb(0, 0, 0);
-            font-size: 45px;
-        }
-        h3{
-            color: white;
-            font-size: 30px;
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            text-shadow: 10px 5px 10px black;
+            background-image: url(Screenshot_11.png);
+            background-size: 100%;
+            margin: 20px;
+            padding: 20px;
+            color: hsl(202, 100%, 74%);
+            border-radius: 20px;
+            box-shadow: 0 0 20px rgb(0, 0, 0);
             text-decoration: underline;
+            text-transform: uppercase;
+        }
+        .block01{
+            border: 10px solid brown;
+            border-radius: 4%;
+            border-color: brown;
+            background-color: brown;
+            border-width: 40px;
+            box-shadow: 0 0 100px;
         }
         img{
-            width: 25%;
+            width: 230px;
+            border-radius: 10%;
+            box-shadow: 0 0 10px;
+            margin: 5px;
+        }
+        h2{
+            text-align: center;
+            background-color: rgb(128, 47, 47);
+            color: white;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
             border-radius: 10px;
-            box-shadow: 10px 5px 10px;
-            float: left;
-            margin-right: 20px;
+            box-shadow: 0 0 10px black;
         }
         p{
-            color: white;
+            text-align: center;
             font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            font-size: 15pt;
-            text-shadow: 0 0 3px black;
-        }
-        .Parag01{
-            display: flexbox;
-            width: 1500px;
-            height: 300px;
-        }
-        .Parag02{
-            display: flexbox;
-            width: 1500px;
-            height: 300px
-        }
-        .UBW{
             color: white;
-            font-size: 30px;
-            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-            text-shadow: 10px 5px 10px black;
-            text-decoration: underline;
+            font-weight: 900;
+            font-size: 15px;
         }
-        .UBWRIN{
-            width: 25%;
+        h4{
+            text-align: center;
+            background-color: rgb(128, 47, 47);
+            color: white;
+            border-radius: 10px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            box-shadow: 0 0 10px black;
+        }
+        .saber{
+            width: 70px;
+            border-radius: 50%;
+        }
+        .chino{
+            width: 70px;
+            border-radius: 50%;
+        }
+        .travel{
+            color: blue;
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>Minha opinião Do Anime Fate Stay Night</h1>
-    </header>
-    <div class="Parag01">
-        <h3>Primeira Rota: Fate Stay Night</h3>
-    <img src="	https://nefariousreviews.files.wordpress.com/2017/10/fate-stay-night-vn-featured.jpg?w=640">
-    <p>Eu gosto dessa rota, mas não é a minha preferida, como todas as rotas o inicio é basicamente o mesmo<br>
-       Tirando o fato da animação ter sido feita pelo Studio Deen, até que é legal a história e os personagens...<br>
-       menos o Shirou, mas ele é menos irritante que no UBW. A Saber como sempre, continua linda, mas o Shirou<br>
-       ainda é um chato, o Archer e a Rin são bem legais.
-           Falando sobre as músicas, as openings são boas, principalmente a 2. A trilha sonora do resto da obra<br>
-       é legalzinha, mas não tem nada demais.
-           Definivamente as melhores cenas são a aparição do Gilgamesh, onde ele aparece e chama ainda mata a<br>
-       Caster e o mestre dela. A segunda melhor cena é quando a Illya aparece com o seus berserkser, e quase mata<br>
-       o Shirou, Rin e Saber. Minha nota é 8.5
-    </p>
-    </div>
-    
-    <div class="Parag02">
-        <h3 class="UBW">Segunda Rota: Unlimited Blade Works</h3>
-    <img src="fate-series-fate-stay-night-rin-tohsaka-wallpaper-preview.jpg" class="UBWRIN">
-    <p>
-        Embora eu não goste do Shirou, a animação, música e outros personagens são bem melhores aqui, e novamente<br>
-        começa do mesmo jeito.Na na parte da opening, ela é boa, mas eu ainda prefiro às da primeira adaptação.
-            Eu gosto mais da luta contra o Berserk nessa parte, porque a coreografia e animação são realmente boas<br>
-        A luta contra a Caster também foi muito melhor nessa parte, principalmente a parte final e a "traição" do Archer<br>
-        A luta do Archer contra o Shirou foi magnífica.
-            Sobre a luta contra o Gilgamesh, ela é perfeita, a música, o Gilgamesh, os movimentos é simplismente perfeito.<br>
-            Nota 9.9
-    </p>
-    </div>
-    <div class="Parag02">
-        <h3>Terceira Rota: Heaven's Feel</h3>
-        <img src="	https://geekverso.com/wp-content/uploads/2020/05/Fate-stay-night-heavens-feel.jpg">
-        <p>
-        Essa é definivamente a melhor rota de fate, a maioria dos personagens importantes morre logo no inicio<br>
-        O Shirou aqui é um ótimo personagem, o vilão agora é a Sakura, o Shirou tenta fazer de tudo para salvar ela<br>
-        A melhor parte é a aparição da Saber Alter, com o Berserker sendo humilhar, o Shirou e o Kirei sendo "amigos"<br>
-        É simplismente perfeito.
-             A Illya, perfeita como sempre, foi mais importante do que já é, a Rider teve mais importância, até a Rin<br>
-             tá menos chata. Nota 10   
-        </p>
-    </div>
-    <div class="Parag02">
-
-    </div>
+    <main>
+        <header>
+            <h1>Para o <span>Traveller</span></h1>
+            <div class="block01">
+                <h2>Porquê o Traveller é legal</h2>
+                <center>
+                    <img src="TravellerDecepcionado.gif">
+                </center>
+                <img src="	https://64.media.tumblr.com/c61dd85d963753b893ce9dc3be6841fd/tumblr_p0t0vpPSMb1vy2tgqo7_400.jpg" class="saber"> <img src="	https://pbs.twimg.com/media/E-6W5HIVkAQBe_u.jpg" class="saber"> <img src="	https://s3.us-east-1.amazonaws.com/gamewith-en/article_tools%2Fgenshin-impact%2Fgacha%2Fchara_84.png" class="chino">
+                <img src="	https://pbs.twimg.com/profile_images/524178318006829056/oRH0_yaE_400x400.png" class="saber"> <img src="	https://i.pinimg.com/originals/1a/d0/0d/1ad00ddf7c1f7bb62f7c7c17a51203b5.jpg" class="saber"> <img src="	https://pbs.twimg.com/profile_images/694761688428646400/ogFUMXCb_400x400.jpg" class="saber"> <img src="	https://64.media.tumblr.com/e6e544b4a7d1a98b7dcac116b9e53a83/tumblr_ptewyf07HB1u1ycqw_400.jpg" class="saber">
+                <h4>MOTIVOS:</h4>
+                <p>Bem, o <span class="travel">Traveller</span> é legal porquê ele me apresentou Fate Stay Night.<br>
+                Ele também me apresentou um monte coisa legal mas, ele sempre diz que<br>
+                decepcionei ele quando eu falo "<span class="travel">Zasshu</span>" e que o Gilgamesh é o melhor personagem<br>
+                Ele toda vez que ele pode ele diz que eu não tenho Mona<br>
+                Mas tirando isso ele é legal :)
+                </p>
+            </div>
+        </header>
+    </main>
 </body>
 </html>
